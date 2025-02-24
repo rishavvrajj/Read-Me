@@ -1,7 +1,7 @@
 # Hi there, I'm Rishav Raj! 👋
 
 ## 🚀 About Me
-I'm an aspiring **Data Scientist** with a strong foundation in **SQL, Python, Power BI, Excel, and Data Analysis**. My goal is to master **data science** and land a **remote job in the US** by June 2025. Currently, I'm focusing on **SQL** and preparing for **Kaggle competitions** to sharpen my skills.
+I'm an aspiring **Data Scientist** with a strong foundation in **SQL, Python, Power BI, Excel, and Data Analysis**. My goal is to master **data science** and land a **remote job in the US**. Currently, I'm focusing on **SQL** and preparing for **Kaggle competitions** to sharpen my skills.
 
 ## 🎯 Skills & Technologies
 - **SQL**: Joins, Window Functions, Aggregations, Advanced SQL Queries
