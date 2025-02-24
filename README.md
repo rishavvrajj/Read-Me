@@ -22,4 +22,4 @@ I'm an aspiring **Data Scientist** with a strong foundation in **SQL, Python, Po
 
 ## 📫 Connect with Me
 - **GitHub**: [github.com/RishavRaj](https://github.com/RishavRaj)
-- **LinkedIn**: [linkedin.com/in/rishavraj](https://linkedin.com/in/rishavraj)
+- **X**: [X.com/in/rishavraj](https://x.com/rishav__raj__)
