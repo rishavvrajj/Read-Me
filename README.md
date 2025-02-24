@@ -17,14 +17,8 @@ I'm an aspiring **Data Scientist** with a strong foundation in **SQL, Python, Po
 - Improving my **English communication skills** for remote job opportunities
 
 ## 📈 Projects
-- **SQL MCQ Application** (Work in Progress) - Interactive quiz for SQL learners
 - **Customer Support Chatbot** - NLP-based chatbot integrated with Flask & WordPress
 - **Data Warehouse Project** - Implementing ETL processes using Microsoft SQL Server
-
-## 🎯 Goals for 2025
-✅ Master all essential **data science tools**  
-✅ Complete a **3-month internship** (April–June)  
-✅ Secure a **remote data scientist job in the US**  
 
 ## 📫 Connect with Me
 - **GitHub**: [github.com/RishavRaj](https://github.com/RishavRaj)
