@@ -21,5 +21,5 @@ I'm an aspiring **Data Scientist** with a strong foundation in **SQL, Python, Po
 - **Data Warehouse Project** - Implementing ETL processes using Microsoft SQL Server
 
 ## 📫 Connect with Me
-- **GitHub**: [github.com/RishavRaj](https://github.com/RishavRaj)
+- **GitHub**: [github.com/Rishavvrajj](https://github.com/rishavvrajj)
 - **X**: [X.com/in/rishavraj](https://x.com/rishav__raj__)
